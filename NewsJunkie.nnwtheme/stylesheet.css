@@ -16,7 +16,7 @@ body {
 	/* bp */
 	background-color: #242527;
 	/* color: #f1f2f3; */
-	color: #ddb892;
+	color: #e6ccb2;
 
 	font-family: 'SF Pro Light', -apple-system;
 }
@@ -33,7 +33,7 @@ a:hover,
 a:visited,
 a:active
  {
-	color:#f1f2f3;
+	color:#ede0d4;
 	text-decoration:none;
 	font-weight: 100;
 	font-family: 'SF Pro';
@@ -90,7 +90,7 @@ header h1 img {
 header h2 {
 	font-size: 1.8em;
 	font-weight: 100;
-	font-family: 'SF Mono Regular';
+	font-family: 'SF Pro Regular';
 }
 
 header .meta {
@@ -146,7 +146,7 @@ blockquote {
 	margin: 2em 0;
 	font-style: italic;
 	font-weight: 100;
-	font-family: 'SF Mono';
+	font-family: 'SF Pro';
 }
 
 article h1,
