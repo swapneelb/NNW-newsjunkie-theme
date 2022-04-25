@@ -14,11 +14,11 @@ body {
 	max-width: 44em;
 
 	/* bp */
-	background-color: #242527;
+	background-color: #393939;
 	/* color: #f1f2f3; */
 	color: #ddb892;
 
-	font-family: 'SF Pro Regular', -apple-system;
+	font-family: 'SF Pro Light', -apple-system;
 }
 
 /* text sizes */
@@ -62,13 +62,12 @@ header h1 {
 	flex-wrap: nowrap;
 	justify-content: space-between;
 	align-items: center;
-	font-size: 2.5em;
+	font-size: 2.2em;
 	font-family: 'SF Pro';
 }
 
 header h1 a:link {
-	color: rgb(103, 103, 103);
-	/* color: antiquewhite; */
+	color: #bcb8b1;
 	width: calc(100% - 48px - 1em);
 	font-family: 'SF Pro';
 }
@@ -88,9 +87,9 @@ header h1 img {
 }
 
 header h2 {
-	font-size: 1.8em;
+	font-size: 1.5em;
 	font-weight: 100;
-	font-family: 'SF Pro Regular';
+	font-family: 'SF Pro';
 }
 
 header .meta {
@@ -123,7 +122,7 @@ article {
 p,
 article p {
 	text-align:left;
-	letter-spacing: .07em;
+	letter-spacing: .05em;
 	line-height: 1.5em;
 }
 
@@ -176,8 +175,7 @@ figcaption a,
 figure figcaption {
 	margin: 0;
 	padding:0 1em;
-	font-style:italic;
-	font-size: 1em;
+	font-size: .9em;
 }
 
 hr {
@@ -198,7 +196,7 @@ footer p {
 
 .meta {
 	font-family:'SF Mono', monaco;
-	font-size: 1em;
+	font-size: .9em;
 	line-height:2em;
 }
 
