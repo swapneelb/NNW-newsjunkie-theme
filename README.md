@@ -1,7 +1,7 @@
 
 # Night Shift Theme for NetNewsWire
 
-A theme inspired by Night Shift feature on macOS. This theme is forked from datafunk/newsjunkie-theme.
+A theme inspired by Night Shift feature on macOS. This theme is forked from [newsjunkie-theme](https://github.com/datafunk/NNW-newsjunkie-theme)
 
 ## Installation instructions
 
