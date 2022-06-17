@@ -10,4 +10,4 @@ A theme inspired by Night Shift feature on macOS. This theme is forked from data
 
 ## Screenshot
 
-!(https://github.com/swapneelb/NNW-nightshift-theme/blob/main/Screenshot%202022-06-17%20at%2012.53.55%20PM.jpg)
+![Screenshot](https://github.com/swapneelb/NNW-nightshift-theme/blob/main/Screenshot%202022-06-17%20at%2012.53.55%20PM.jpg)
